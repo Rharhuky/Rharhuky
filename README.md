@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java, Spring, web development.
 - 👯 I’m looking to collaborate on projects that help me learn new abilities. 
 - 😄 Pronouns: He/Him
-
 <div align="center">
   <a href="https://github.com/Rharhuky">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rharhuky&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
